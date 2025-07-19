@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mithaq Albina - Connect with Us</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f0f2f5;
+      color: #333;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    img.logo {
+      max-width: 150px;
+      margin-bottom: 30px;
+    }
+    h1 {
+      color: #222;
+      margin-bottom: 20px;
+    }
+    .btn {
+      display: inline-block;
+      margin: 10px 15px;
+      padding: 15px 30px;
+      font-size: 18px;
+      border-radius: 8px;
+      text-decoration: none;
+      color: white;
+      width: 220px;
+      transition: background-color 0.3s ease;
+    }
+    .facebook { background-color: #1877f2; }
+    .facebook:hover { background-color: #145dbf; }
+    .instagram { background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%); }
+    .instagram:hover { opacity: 0.8; }
+    .website { background-color: #4CAF50; }
+    .website:hover { background-color: #3b8e3b; }
+  </style>
+</head>
+<body>
+
+  <!-- Replace the src with your actual logo URL if you have one -->
+  <img src="https://mithaqalbina.ae/wp-content/uploads/2023/05/mithaq-logo.png" alt="Mithaq Albina Logo" class="logo" />
+
+  <h1>Connect with Mithaq Albina</h1>
+
+  <a href="https://www.facebook.com/profile.php?id=61576951994602" class="btn facebook" target="_blank" rel="noopener noreferrer">Facebook</a>
+  <a href="https://www.instagram.com/mithaqalbina?igsh=MTI0c2luNm05YTBxYQ==" class="btn instagram" target="_blank" rel="noopener noreferrer">Instagram</a>
+  <a href="https://mithaqalbina.ae/" class="btn website" target="_blank" rel="noopener noreferrer">Website</a>
+
+</body>
+</html>
